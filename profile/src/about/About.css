@@ -1,0 +1,36 @@
+ .About{
+    background-color: black;
+    height: 900px;
+ }
+.About1 h1{
+    font-size: 30px;
+    padding-left: 30px;
+    padding-top: 30px;
+    color: yellow;
+   
+}
+#src2{
+    background: linear-gradient(270deg, #DF8908 10%, #B415FF 100%);
+    -webkit-background-clip: text; /* For Safari */
+    -webkit-text-fill-color: transparent; /* For Safari */
+    background-clip: text; /* Standard property */
+}
+
+.About1 p{
+    font-size: 25px;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+.About2{
+    display: flex;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+.src1{
+ padding-left: 20px;
+ padding-right: 45px;
+ font-size: 20px;
+}
+.src1 p {
+    color: aliceblue;
+}
